@@ -11,4 +11,4 @@ Yang tidak berkepentingan jangan kemari...
 - Soal 4 : ```soal_4.sh```
 
 Jika tidak bisa di run. manual saja buka di CMD
-misal : ```java Mahasiswa``` & pencet enter
+misal : ```java Seleksi``` & pencet enter
