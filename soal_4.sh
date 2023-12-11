@@ -1,0 +1,1 @@
+java -cp .:lib/mysql-connector-j-8.1.0.jar Mahasiswa
